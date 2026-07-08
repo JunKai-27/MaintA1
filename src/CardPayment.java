@@ -6,4 +6,3 @@ public class CardPayment implements PaymentMethod {
         return amount + CARD_FEE;
     }
 }
-//Test
