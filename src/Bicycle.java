@@ -3,6 +3,3 @@ public class Bicycle extends Vehicle {
     public void processVehicle(){
     	System.out.println("Processing bicycle");
     }
-    
-
-}
