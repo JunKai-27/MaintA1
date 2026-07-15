@@ -8,3 +8,4 @@ public class Bicycle extends Vehicle {
     //Also, it is optional to override the move() method since it is a non-abstract method in Vehicle class
 }
 //Test
+//Test
