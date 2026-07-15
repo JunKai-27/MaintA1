@@ -4,3 +4,4 @@ public abstract class Vehicle {
     }
     public abstract void processVehicle(); //removed the TruckHandler and avoid future CarHandler, MotorcycleHandler, etc
 }
+//Test
